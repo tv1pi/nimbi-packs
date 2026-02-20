@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Bingo",
+    "version": "1.0.2",
+    "description": "## Bingo\n\nСоревнуйтесь с друзьями в поиске предметов!\n\n- Уникальные задания\n- Случайные карты\n- Поддержка команд\n",
+    "iconUrl": "https://raw.githubusercontent.com/OWNER/nimbi-packs/main/builds/Bingo/icon.png",
+    "downloadUrl": "https://github.com/OWNER/nimbi-packs/releases/download/Bingo-1.0.2/Bingo.zip",
+    "hash": "d2c7e5a8b1f4a2e3c9d8b7a6e5f4d3c2b1a0e9d8c7b6a5e4d3c2b1a0e9d8c7b6"
+  },
+  {
+    "name": "RandomRun",
+    "version": "1.0.0",
+    "description": "## RandomRun\n\nБеги по случайным локациям и побеждай!\n\n- Быстрый старт\n- Множество карт\n- Таблица лидеров\n",
+    "iconUrl": "https://raw.githubusercontent.com/OWNER/nimbi-packs/main/builds/RandomRun/icon.png",
+    "downloadUrl": "https://github.com/OWNER/nimbi-packs/releases/download/RandomRun-1.0.0/RandomRun.zip",
+    "hash": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2"
+  }
+]
