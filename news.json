@@ -2,9 +2,9 @@
   {
     "date": "2025-02-26",
     "title": "Первый релиз лаунчера",
-    "summary": "Добавлены три сборки: две мини-игры и одна сборка выживания. Лаунчер умеет подгружать список сборок и новости с GitHub.",
+    "summary": "Чота я тут натворил, захуячил картинку в чат гпт, в целом вроде всё работает",
     "url": "https://github.com/username/launcher/releases",
-    "bannerUrl": "https://i.ibb.co/MDDYJ2zr/066fa2cb37aa563522fa6c1f0760d172.jpg"
+    "bannerUrl": "https://i.ibb.co/YFN8W2GP/Chat-GPT-Image-26-2026-13-07-58-1.png"
   },
   {
     "date": "2025-02-25",
@@ -14,5 +14,6 @@
     "bannerUrl": "https://i.ibb.co/MDDYJ2zr/066fa2cb37aa563522fa6c1f0760d172.jpg"
   }
 ]
+
 
 
