@@ -1,7 +1,7 @@
 {
   "launcherVersion": "1.0.0",
   "launcherReleaseUrl": "https://github.com/username/launcher/releases",
-  "newsSource": "https://raw.githubusercontent.com/username/launcher-data/main/news.json",
+  "newsSource": "https://raw.githubusercontent.com/tv1pi/nimbi-packs/refs/heads/main/news.json",
   "builds": [
     {
       "id": "minigames-1",
@@ -38,3 +38,4 @@
     }
   ]
 }
+
