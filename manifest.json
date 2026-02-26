@@ -1,0 +1,40 @@
+{
+  "launcherVersion": "1.0.0",
+  "launcherReleaseUrl": "https://github.com/username/launcher/releases",
+  "newsSource": "https://raw.githubusercontent.com/username/launcher-data/main/news.json",
+  "builds": [
+    {
+      "id": "minigames-1",
+      "name": "Мини-игры #1",
+      "shortDescription": "Классические мини-игры для компании: бег по паркуру, PvP арена, строительные режимы. Идеально для быстрых сессий с друзьями.",
+      "version": "1.0",
+      "launchType": "fabric",
+      "minecraftVersion": "1.20.1",
+      "downloadUrl": "https://github.com/username/launcher-data/releases/download/v1.0/minigames-1.zip",
+      "fileName": "minigames-1.zip",
+      "sizeBytes": 0
+    },
+    {
+      "id": "minigames-2",
+      "name": "Мини-игры #2",
+      "shortDescription": "Вторая подборка мини-игр: охотники за сокровищами, королевская битва на острове, командные челленджи. Новые карты и механики.",
+      "version": "1.0",
+      "launchType": "fabric",
+      "minecraftVersion": "1.20.1",
+      "downloadUrl": "https://github.com/username/launcher-data/releases/download/v1.0/minigames-2.zip",
+      "fileName": "minigames-2.zip",
+      "sizeBytes": 0
+    },
+    {
+      "id": "survival",
+      "name": "Выживание",
+      "shortDescription": "Обширная сборка для долгого выживания с друзьями: моды на крафт, исследование, строительство и удобства. Один мир — общие приключения.",
+      "version": "1.0",
+      "launchType": "fabric",
+      "minecraftVersion": "1.20.1",
+      "downloadUrl": "https://github.com/username/launcher-data/releases/download/v1.0/survival.zip",
+      "fileName": "survival.zip",
+      "sizeBytes": 0
+    }
+  ]
+}
