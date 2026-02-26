@@ -4,7 +4,7 @@
     "title": "Первый релиз лаунчера",
     "summary": "Добавлены три сборки: две мини-игры и одна сборка выживания. Лаунчер умеет подгружать список сборок и новости с GitHub.",
     "url": "https://github.com/username/launcher/releases",
-    "bannerUrl": ""
+    "bannerUrl": "https://png.pngtree.com/thumb_back/fh260/background/20230610/pngtree-picture-of-a-blue-bird-on-a-black-background-image_2937385.jpg"
   },
   {
     "date": "2025-02-25",
@@ -14,3 +14,4 @@
     "bannerUrl": ""
   }
 ]
+
