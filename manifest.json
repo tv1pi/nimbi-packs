@@ -1,6 +1,6 @@
 {
   "launcherVersion": "1.0.0",
-  "launcherReleaseUrl": "https://github.com/username/launcher/releases",
+  "launcherReleaseUrl": "https://github.com/tv1pi/nimbi/releases",
   "newsSource": "https://raw.githubusercontent.com/tv1pi/nimbi-packs/refs/heads/main/news.json",
   "builds": [
     {
@@ -10,7 +10,7 @@
       "version": "1.0",
       "launchType": "fabric",
       "minecraftVersion": "1.20.1",
-      "downloadUrl": "https://github.com/username/launcher-data/releases/download/v1.0/minigames-1.zip",
+      "downloadUrl": "https://github.com/tv1pi/nimbi-packs/releases/download/v1.0/minigames-1.zip",
       "fileName": "minigames-1.zip",
       "sizeBytes": 0
     },
@@ -21,7 +21,7 @@
       "version": "1.0",
       "launchType": "fabric",
       "minecraftVersion": "1.20.1",
-      "downloadUrl": "https://github.com/username/launcher-data/releases/download/v1.0/minigames-2.zip",
+      "downloadUrl": "https://github.com/tv1pi/nimbi-packs/releases/download/v1.0/minigames-2.zip",
       "fileName": "minigames-2.zip",
       "sizeBytes": 0
     },
@@ -32,10 +32,11 @@
       "version": "1.0",
       "launchType": "fabric",
       "minecraftVersion": "1.20.1",
-      "downloadUrl": "https://github.com/username/launcher-data/releases/download/v1.0/survival.zip",
+      "downloadUrl": "https://github.com/tv1pi/nimbi-packs/releases/download/v1.0/survival.zip",
       "fileName": "survival.zip",
       "sizeBytes": 0
     }
   ]
 }
+
 
