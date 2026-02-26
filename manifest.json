@@ -10,6 +10,8 @@
       "version": "1.0",
       "launchType": "fabric",
       "minecraftVersion": "1.20.1",
+      "iconUrl": "https://example.com/my-build-icon.png",
+      "thumbnailUrl": "https://example.com/back.png",
       "downloadUrl": "https://github.com/tv1pi/nimbi-packs/releases/download/v1.0/minigames-1.zip",
       "fileName": "minigames-1.zip",
       "sizeBytes": 0
@@ -21,6 +23,8 @@
       "version": "1.0",
       "launchType": "fabric",
       "minecraftVersion": "1.20.1",
+      "iconUrl": "https://example.com/my-build-icon.png",
+      "thumbnailUrl": "https://example.com/back.png",
       "downloadUrl": "https://github.com/tv1pi/nimbi-packs/releases/download/v1.0/minigames-2.zip",
       "fileName": "minigames-2.zip",
       "sizeBytes": 0
@@ -32,11 +36,14 @@
       "version": "1.0",
       "launchType": "fabric",
       "minecraftVersion": "1.20.1",
+      "iconUrl": "https://example.com/my-build-icon.png",
+      "thumbnailUrl": "https://example.com/back.png",
       "downloadUrl": "https://github.com/tv1pi/nimbi-packs/releases/download/v1.0/survival.zip",
       "fileName": "survival.zip",
       "sizeBytes": 0
     }
   ]
 }
+
 
 
