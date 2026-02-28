@@ -1,19 +1,12 @@
 [
   {
-    "date": "2025-02-26",
-    "title": "Первый релиз лаунчера",
-    "summary": "Чота я тут натворил, захуячил картинку в чат гпт, в целом вроде всё работает",
-    "url": "https://github.com/username/launcher/releases",
-    "bannerUrl": "https://i.ibb.co/YFN8W2GP/Chat-GPT-Image-26-2026-13-07-58-1.png"
+    "title": "NLauncher 1.0.0",
+    "content": "<p>Добро пожаловать в NLauncher.</p><p>Здесь можно публиковать новости в формате HTML.</p>",
+    "link": "https://github.com/tv1pi/NLauncher"
   },
   {
-    "date": "2025-02-25",
-    "title": "Patch note: подготовка сборок",
-    "summary": "Сборки упакованы и залиты в Releases. Обновите лаунчер и нажмите «Обновить», чтобы увидеть актуальный список.",
-    "url": "",
-    "bannerUrl": "https://i.ibb.co/MDDYJ2zr/066fa2cb37aa563522fa6c1f0760d172.jpg"
+    "title": "Пример второй новости",
+    "content": "<p>Добавьте в этот JSON файл столько записей, сколько нужно.</p><p>Поля: <b>title</b>, <b>content</b> (HTML), <b>link</b>.</p>",
+    "link": "https://github.com/tv1pi/NLauncher"
   }
 ]
-
-
-
